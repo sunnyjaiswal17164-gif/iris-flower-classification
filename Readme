@@ -1,2 +1,33 @@
-# iris-flower-classification
-Iris flower species prediction using Python and Scikit-learn. Decision Tree model with 93.33% test accuracy.
+
+# Iris Flower Classification
+
+## Project Overview
+A Machine Learning classification project that predicts iris flower species using four flower measurements: sepal length, sepal width, petal length, and petal width.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Decision Tree Classifier
+- Google Colab
+
+## Dataset
+The Iris dataset contains 150 samples across three species:
+- Setosa
+- Versicolor
+- Virginica
+
+## Model Performance
+- Training samples: 120
+- Testing samples: 30
+- Test accuracy: 93.33%
+
+## How It Works
+1. Load and explore the Iris dataset.
+2. Split the data into training and testing sets.
+3. Train a Decision Tree classifier.
+4. Evaluate model performance.
+5. Predict the species of a new flower using its measurements.
+
+## Project Notebook
+See `iris_flower_classification.ipynb` in this repository to explore the code and results.
